@@ -8,7 +8,7 @@
 * A resume.
 * A reference to at least one project.
 * Contact information.
-* Basic HTML, CSS, JavaScript used.
+* Basic HTML, CSS, JavaScript, and Bootstrap used.
 
 ## Silver Level
 
