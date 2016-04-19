@@ -1,8 +1,8 @@
 #User Stories
 
-### Bronze Level
+## Bronze Level
 
-<h2>Basic Requirements</h2>
+### Basic Requirements
 
 * A brand statement.
 * A resume.
@@ -10,20 +10,20 @@
 * Contact information.
 * Basic HTML, CSS, JavaScript used.
 
-### Silver Level
+## Silver Level
 
-<h2>Add jQuery</h2>
+### Add jQuery
 
-<h2>Add jQuery Plugin</h2>
+### Add jQuery Plugin
 
-<h2>SASS Implemented</h2>
+<h3>SASS Implemented</h3>
 
 * Nested selectors.
 * Variables.
 * At least one mixin.
 * At least one conditional statement.
 
-### Gold Level
+## Gold Level
 
 *
 *
