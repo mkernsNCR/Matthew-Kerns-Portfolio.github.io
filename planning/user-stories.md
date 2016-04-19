@@ -16,7 +16,7 @@
 
 ### Add jQuery Plugin
 
-<h3>SASS Implemented</h3>
+### SASS Implemented
 
 * Nested selectors.
 * Variables.
