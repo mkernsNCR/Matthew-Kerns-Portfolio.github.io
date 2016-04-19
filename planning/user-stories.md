@@ -1,25 +1,31 @@
 #User Stories
 
-<h2>Bronze Level</h2>
-<ul>
-  <li>A brand statement.</li>
-  <li>A resume.</li>
-  <li>A reference to at least one project.</li>
-  <li>Contact information.</li>
-</ul>
+### Bronze Level
 
-<h2>Silver Level</h2>
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
+<h2>Basic Requirements</h2>
 
-<h2>Gold Level</h2>
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
+* A brand statement.
+* A resume.
+* A reference to at least one project.
+* Contact information.
+* Basic HTML, CSS, JavaScript used.
+
+### Silver Level
+
+<h2>Add jQuery</h2>
+
+<h2>Add jQuery Plugin</h2>
+
+<h2>SASS Implemented</h2>
+
+* Nested selectors.
+* Variables.
+* At least one mixin.
+* At least one conditional statement.
+
+### Gold Level
+
+*
+*
+*
+*
