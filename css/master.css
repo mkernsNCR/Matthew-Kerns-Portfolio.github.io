@@ -3,11 +3,24 @@ html {
 }
 
 body {
-  background-image: url("http://www.mrwallpaper.com/wallpapers/forest-trees-waterfall.jpg");
+  /*background-image: url("http://www.mrwallpaper.com/wallpapers/forest-trees-waterfall.jpg");*/
+  background-image: url("https://media.giphy.com/media/3o6UB9IxAjNdyIgUKY/giphy.gif");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
+  color: rgba(255, 255, 255, 0.5);
+  font-family: 'Fugaz One', cursive;
+  background-color:black;
+}
+
+header {
+  margin-top: 700px;
+  font-size: 2em;
+}
+
+h2 {
+  margin-bottom: 0;
 }
 
 ul {
@@ -20,23 +33,29 @@ li {
   padding: 25px;
 }
 
+a:hover {
+  color: black;
+}
+
 .container {
   width: 100%;
   margin: 0;
 }
 
 .about {
-  background-color: lightgrey;
-  opacity: 0.9;
+  margin-top: 700px;
+  background-color: rgba(5, 5, 5, 0.6);
 }
 
 .projects {
-  background-color: grey;
+  margin-top: 700px;
+  background-color: rgba(5, 5, 5, 0.6);
   opacity: 0.9;
 }
 
 .connect {
-  background-color: darkgrey;
+  margin-top: 700px;
+  background-color: rgba(5, 5, 5, 0.6);
   opacity: 0.9;
 }
 
@@ -44,4 +63,8 @@ li {
   margin: auto;
   width: 50%;
   font-size: 1.4em;
+}
+
+#icon {
+  padding-bottom: 0;
 }
