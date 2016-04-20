@@ -1588,11 +1588,11 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
-@media (min-width: 768px) {
+/*@media (min-width: 768px) {
   .container {
     width: 750px;
   }
-}
+}*/
 @media (min-width: 992px) {
   .container {
     width: 970px;
@@ -4965,7 +4965,7 @@ a.badge:focus {
   padding-bottom: 30px;
   margin-bottom: 30px;
   color: inherit;
-  background-color: #eee;
+  background-color: transparent;
 }
 .jumbotron h1,
 .jumbotron .h1 {

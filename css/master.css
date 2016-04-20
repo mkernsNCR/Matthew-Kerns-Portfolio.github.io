@@ -2,6 +2,14 @@ html {
   text-align: center;
 }
 
+body {
+  background-image: url("http://www.mrwallpaper.com/wallpapers/forest-trees-waterfall.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
 ul {
   list-style-type: none;
   padding: 0;
@@ -10,4 +18,30 @@ ul {
 li {
   float: left;
   padding: 25px;
+}
+
+.container {
+  width: 100%;
+  margin: 0;
+}
+
+.about {
+  background-color: lightgrey;
+  opacity: 0.9;
+}
+
+.projects {
+  background-color: grey;
+  opacity: 0.9;
+}
+
+.connect {
+  background-color: darkgrey;
+  opacity: 0.9;
+}
+
+.abt-me {
+  margin: auto;
+  width: 50%;
+  font-size: 1.4em;
 }
