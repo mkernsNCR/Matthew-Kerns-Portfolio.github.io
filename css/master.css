@@ -4,10 +4,10 @@ html {
 
 body {
   /*background-image: url("http://www.mrwallpaper.com/wallpapers/forest-trees-waterfall.jpg");*/
-  background-image: url("https://media.giphy.com/media/3o6UB9IxAjNdyIgUKY/giphy.gif");
+  background-image: url("https://media.giphy.com/media/fJ1eCBjmMoEvu/giphy.gif");
   background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+  background-size: contain;
+  background-position: top;
   background-attachment: fixed;
   color: rgba(255, 255, 255, 0.5);
   font-family: 'Fugaz One', cursive;
