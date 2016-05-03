@@ -61,12 +61,12 @@ nav {
 }
 
 .about {
-  margin-top: 200px;
+  margin-top: 1px;
   background-color: rgba(5, 5, 5, 0.6);
 }
 
 .projects {
-  margin-top: 700px;
+  margin-top: 200px;
   background-color: rgba(5, 5, 5, 0.6);
   opacity: 0.9;
 }
