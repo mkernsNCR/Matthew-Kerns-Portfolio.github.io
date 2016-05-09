@@ -37,6 +37,14 @@ li {
   padding: 25px;
 }
 
+li div {
+  display: block;
+  float: left;
+  width: 300px;
+  height: 1px;
+  padding-left: 250px;
+}
+
 a, a:link, a:visited {
   text-decoration: none;
   color: green;
@@ -55,6 +63,11 @@ nav {
   z-index: 1;
 }
 
+article {
+  font-size: large;
+  background-color: black;
+}
+
 .container {
   width: 100%;
   margin: 0;
@@ -67,7 +80,8 @@ nav {
 
 .projects {
   margin-top: 200px;
-  background-color: rgba(5, 5, 5, 0.6);
+  background-color: black;
+  /*background-color: rgba(5, 5, 5, 0.6);*/
   opacity: 0.9;
 }
 
