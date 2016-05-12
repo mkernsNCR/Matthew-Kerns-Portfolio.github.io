@@ -23,6 +23,10 @@ header {
   font-size: 2em;
 }
 
+section img {
+  width: 50em;
+}
+
 h2 {
   margin-bottom: 0;
 }
@@ -78,11 +82,17 @@ article {
   background-color: rgba(5, 5, 5, 0.6);
 }
 
-.projects {
+.projects, .resume {
   margin-top: 200px;
   background-color: black;
   /*background-color: rgba(5, 5, 5, 0.6);*/
   opacity: 0.9;
+}
+
+.project-img {
+  width: 100%;
+  display: block;
+  margin: auto;
 }
 
 .connect {
@@ -95,6 +105,10 @@ article {
   margin: auto;
   width: 50%;
   font-size: 1.4em;
+}
+
+.view-more {
+  font-size: 1.5em;
 }
 
 #icon {
